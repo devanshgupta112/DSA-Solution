@@ -1,55 +1,208 @@
-# 📘 Devansh's Learning Curve Repository
+# DSA Solutions
 
-Welcome to my personal coding journey! This repository is a collection of all the code I've written while learning and practicing programming concepts — from the very basics to applied mini-projects. It showcases how far I've come, and how much I’ve grown as a programmer.
+Repository containing my C++ solutions to LeetCode and Codeforces problems.
 
----
+## Problem Tracker
 
-## 📌 What's Inside?
-
-This repo includes:
-
-- 🔹 Basic Programs (Loops, Conditionals, Functions, etc.)
-- 🔹 Data Structures (Lists, Tuples, Sets, Dictionaries)
-- 🔹 File Handling
-- 🔹 Exception Handling
-- 🔹 Practice Projects
-- 🔹 Applied Concepts through mini challenges
-
-All code is written with clarity and good practices, refined after multiple rounds of learning and hands-on trials.
-
----
-
-## 🎯 Purpose
-
-This repository is a reflection of:
-- My continuous learning and improvement in coding.
-- The application of concepts I’ve understood.
-- A space to revisit and improve old solutions.
-- A resource for anyone new to programming.
-
----
-
-## 🛠️ Tech Stack
-
-- **Language:** Python (so far)
-- **Tools:** VS Code, Jupyter Notebook, Git
-
----
-
-## 🚀 Future Goals
-
-- Start building intermediate and advanced projects.
-- Learn and apply OOP, APIs, and Libraries.
-- Version control more effectively.
-- Dive into DSA, Web Dev, and Projects.
-
----
-
-## 🤝 Contributions
-
-This is a personal repository, but if you're a beginner and want to collaborate, feel free to open issues or discussions!
-
----
-
-
-Thanks for stopping by! Happy Coding 💻✨
+| Problem | Difficulty | Folder | Date Solved |
+| --- | --- | --- | --- |
+| [0001_two_sum.cpp](leetcode/0001_two_sum.cpp) | Easy | leetcode | - |
+| [0242_valid_anagram.cpp](leetcode/0242_valid_anagram.cpp) | Easy | leetcode | - |
+| [0217_contains_duplicate.cpp](leetcode/0217_contains_duplicate.cpp) | Easy | leetcode | - |
+| [0121_best_time_to_buy_and_sell_stock.cpp](leetcode/0121_best_time_to_buy_and_sell_stock.cpp) | Easy | leetcode | - |
+| [0020_valid_parentheses.cpp](leetcode/0020_valid_parentheses.cpp) | Easy | leetcode | - |
+| [0206_reverse_linked_list.cpp](leetcode/0206_reverse_linked_list.cpp) | Easy | leetcode | - |
+| [0021_merge_two_sorted_lists.cpp](leetcode/0021_merge_two_sorted_lists.cpp) | Easy | leetcode | - |
+| [0053_maximum_subarray.cpp](leetcode/0053_maximum_subarray.cpp) | Medium | leetcode | - |
+| [0070_climbing_stairs.cpp](leetcode/0070_climbing_stairs.cpp) | Easy | leetcode | - |
+| [0704_binary_search.cpp](leetcode/0704_binary_search.cpp) | Easy | leetcode | - |
+| [0226_invert_binary_tree.cpp](leetcode/0226_invert_binary_tree.cpp) | Easy | leetcode | - |
+| [0101_symmetric_tree.cpp](leetcode/0101_symmetric_tree.cpp) | Easy | leetcode | - |
+| [0104_maximum_depth_of_binary_tree.cpp](leetcode/0104_maximum_depth_of_binary_tree.cpp) | Easy | leetcode | - |
+| [0100_same_tree.cpp](leetcode/0100_same_tree.cpp) | Easy | leetcode | - |
+| [0112_path_sum.cpp](leetcode/0112_path_sum.cpp) | Easy | leetcode | - |
+| [0049_group_anagrams.cpp](leetcode/0049_group_anagrams.cpp) | Medium | leetcode | - |
+| [0347_top_k_frequent_elements.cpp](leetcode/0347_top_k_frequent_elements.cpp) | Medium | leetcode | - |
+| [0238_product_of_array_except_self.cpp](leetcode/0238_product_of_array_except_self.cpp) | Medium | leetcode | - |
+| [0036_valid_sudoku.cpp](leetcode/0036_valid_sudoku.cpp) | Medium | leetcode | - |
+| [0128_longest_consecutive_sequence.cpp](leetcode/0128_longest_consecutive_sequence.cpp) | Medium | leetcode | - |
+| [0167_two_sum_ii_sorted.cpp](leetcode/0167_two_sum_ii_sorted.cpp) | Medium | leetcode | - |
+| [0283_move_zeroes.cpp](leetcode/0283_move_zeroes.cpp) | Easy | leetcode | - |
+| [0141_linked_list_cycle.cpp](leetcode/0141_linked_list_cycle.cpp) | Easy | leetcode | - |
+| [0876_middle_of_the_linked_list.cpp](leetcode/0876_middle_of_the_linked_list.cpp) | Easy | leetcode | - |
+| [0019_remove_nth_node_from_end_of_list.cpp](leetcode/0019_remove_nth_node_from_end_of_list.cpp) | Medium | leetcode | - |
+| [0002_add_two_numbers.cpp](leetcode/0002_add_two_numbers.cpp) | Medium | leetcode | - |
+| [0230_kth_smallest_element_in_a_bst.cpp](leetcode/0230_kth_smallest_element_in_a_bst.cpp) | Medium | leetcode | - |
+| [0235_lowest_common_ancestor_of_a_bst.cpp](leetcode/0235_lowest_common_ancestor_of_a_bst.cpp) | Medium | leetcode | - |
+| [0110_balanced_binary_tree.cpp](leetcode/0110_balanced_binary_tree.cpp) | Easy | leetcode | - |
+| [0543_diameter_of_binary_tree.cpp](leetcode/0543_diameter_of_binary_tree.cpp) | Easy | leetcode | - |
+| [0003_longest_substring_without_repeating_characters.cpp](leetcode/0003_longest_substring_without_repeating_characters.cpp) | Medium | leetcode | - |
+| [0015_3sum.cpp](leetcode/0015_3sum.cpp) | Medium | leetcode | - |
+| [0011_container_with_most_water.cpp](leetcode/0011_container_with_most_water.cpp) | Medium | leetcode | - |
+| [0075_sort_colors.cpp](leetcode/0075_sort_colors.cpp) | Medium | leetcode | - |
+| [0560_subarray_sum_equals_k.cpp](leetcode/0560_subarray_sum_equals_k.cpp) | Medium | leetcode | - |
+| [0046_permutations.cpp](leetcode/0046_permutations.cpp) | Medium | leetcode | - |
+| [0078_subsets.cpp](leetcode/0078_subsets.cpp) | Medium | leetcode | - |
+| [0039_combination_sum.cpp](leetcode/0039_combination_sum.cpp) | Medium | leetcode | - |
+| [0079_word_search.cpp](leetcode/0079_word_search.cpp) | Medium | leetcode | - |
+| [0200_number_of_islands.cpp](leetcode/0200_number_of_islands.cpp) | Medium | leetcode | - |
+| [0133_clone_graph.cpp](leetcode/0133_clone_graph.cpp) | Medium | leetcode | - |
+| [0207_course_schedule.cpp](leetcode/0207_course_schedule.cpp) | Medium | leetcode | - |
+| [0994_rotting_oranges.cpp](leetcode/0994_rotting_oranges.cpp) | Medium | leetcode | - |
+| [0102_binary_tree_level_order_traversal.cpp](leetcode/0102_binary_tree_level_order_traversal.cpp) | Medium | leetcode | - |
+| [0098_validate_binary_search_tree.cpp](leetcode/0098_validate_binary_search_tree.cpp) | Medium | leetcode | - |
+| [0322_coin_change.cpp](leetcode/0322_coin_change.cpp) | Medium | leetcode | - |
+| [0300_longest_increasing_subsequence.cpp](leetcode/0300_longest_increasing_subsequence.cpp) | Medium | leetcode | - |
+| [0198_house_robber.cpp](leetcode/0198_house_robber.cpp) | Medium | leetcode | - |
+| [0213_house_robber_ii.cpp](leetcode/0213_house_robber_ii.cpp) | Medium | leetcode | - |
+| [0062_unique_paths.cpp](leetcode/0062_unique_paths.cpp) | Medium | leetcode | - |
+| [0055_jump_game.cpp](leetcode/0055_jump_game.cpp) | Medium | leetcode | - |
+| [0134_gas_station.cpp](leetcode/0134_gas_station.cpp) | Medium | leetcode | - |
+| [0416_partition_equal_subset_sum.cpp](leetcode/0416_partition_equal_subset_sum.cpp) | Medium | leetcode | - |
+| [0091_decode_ways.cpp](leetcode/0091_decode_ways.cpp) | Medium | leetcode | - |
+| [0139_word_break.cpp](leetcode/0139_word_break.cpp) | Medium | leetcode | - |
+| [0215_kth_largest_element_in_an_array.cpp](leetcode/0215_kth_largest_element_in_an_array.cpp) | Medium | leetcode | - |
+| [0621_task_scheduler.cpp](leetcode/0621_task_scheduler.cpp) | Medium | leetcode | - |
+| [0056_merge_intervals.cpp](leetcode/0056_merge_intervals.cpp) | Medium | leetcode | - |
+| [0057_insert_interval.cpp](leetcode/0057_insert_interval.cpp) | Medium | leetcode | - |
+| [0435_non_overlapping_intervals.cpp](leetcode/0435_non_overlapping_intervals.cpp) | Medium | leetcode | - |
+| [0146_lru_cache.cpp](leetcode/0146_lru_cache.cpp) | Medium | leetcode | - |
+| [0208_implement_trie_prefix_tree.cpp](leetcode/0208_implement_trie_prefix_tree.cpp) | Medium | leetcode | - |
+| [0211_design_add_and_search_words_data_structure.cpp](leetcode/0211_design_add_and_search_words_data_structure.cpp) | Medium | leetcode | - |
+| [0150_evaluate_reverse_polish_notation.cpp](leetcode/0150_evaluate_reverse_polish_notation.cpp) | Medium | leetcode | - |
+| [0739_daily_temperatures.cpp](leetcode/0739_daily_temperatures.cpp) | Medium | leetcode | - |
+| [0155_min_stack.cpp](leetcode/0155_min_stack.cpp) | Medium | leetcode | - |
+| [0022_generate_parentheses.cpp](leetcode/0022_generate_parentheses.cpp) | Medium | leetcode | - |
+| [0017_letter_combinations_of_a_phone_number.cpp](leetcode/0017_letter_combinations_of_a_phone_number.cpp) | Medium | leetcode | - |
+| [0048_rotate_image.cpp](leetcode/0048_rotate_image.cpp) | Medium | leetcode | - |
+| [0054_spiral_matrix.cpp](leetcode/0054_spiral_matrix.cpp) | Medium | leetcode | - |
+| [0073_set_matrix_zeroes.cpp](leetcode/0073_set_matrix_zeroes.cpp) | Medium | leetcode | - |
+| [0033_search_in_rotated_sorted_array.cpp](leetcode/0033_search_in_rotated_sorted_array.cpp) | Medium | leetcode | - |
+| [0153_find_minimum_in_rotated_sorted_array.cpp](leetcode/0153_find_minimum_in_rotated_sorted_array.cpp) | Medium | leetcode | - |
+| [0240_search_a_2d_matrix_ii.cpp](leetcode/0240_search_a_2d_matrix_ii.cpp) | Medium | leetcode | - |
+| [0378_kth_smallest_element_in_a_sorted_matrix.cpp](leetcode/0378_kth_smallest_element_in_a_sorted_matrix.cpp) | Medium | leetcode | - |
+| [0005_longest_palindromic_substring.cpp](leetcode/0005_longest_palindromic_substring.cpp) | Medium | leetcode | - |
+| [0647_palindromic_substrings.cpp](leetcode/0647_palindromic_substrings.cpp) | Medium | leetcode | - |
+| [1143_longest_common_subsequence.cpp](leetcode/1143_longest_common_subsequence.cpp) | Medium | leetcode | - |
+| [0072_edit_distance.cpp](leetcode/0072_edit_distance.cpp) | Hard | leetcode | - |
+| [0221_maximal_square.cpp](leetcode/0221_maximal_square.cpp) | Medium | leetcode | - |
+| [0063_unique_paths_ii.cpp](leetcode/0063_unique_paths_ii.cpp) | Medium | leetcode | - |
+| [0064_minimum_path_sum.cpp](leetcode/0064_minimum_path_sum.cpp) | Medium | leetcode | - |
+| [0743_network_delay_time.cpp](leetcode/0743_network_delay_time.cpp) | Medium | leetcode | - |
+| [0787_cheapest_flights_within_k_stops.cpp](leetcode/0787_cheapest_flights_within_k_stops.cpp) | Medium | leetcode | - |
+| [0323_number_of_connected_components_in_an_undirected_graph.cpp](leetcode/0323_number_of_connected_components_in_an_undirected_graph.cpp) | Medium | leetcode | - |
+| [0042_trapping_rain_water.cpp](leetcode/0042_trapping_rain_water.cpp) | Hard | leetcode | - |
+| [0004_median_of_two_sorted_arrays.cpp](leetcode/0004_median_of_two_sorted_arrays.cpp) | Hard | leetcode | - |
+| [0023_merge_k_sorted_lists.cpp](leetcode/0023_merge_k_sorted_lists.cpp) | Hard | leetcode | - |
+| [0127_word_ladder.cpp](leetcode/0127_word_ladder.cpp) | Hard | leetcode | - |
+| [0269_alien_dictionary.cpp](leetcode/0269_alien_dictionary.cpp) | Hard | leetcode | - |
+| [0297_serialize_and_deserialize_binary_tree.cpp](leetcode/0297_serialize_and_deserialize_binary_tree.cpp) | Hard | leetcode | - |
+| [0124_binary_tree_maximum_path_sum.cpp](leetcode/0124_binary_tree_maximum_path_sum.cpp) | Hard | leetcode | - |
+| [0010_regular_expression_matching.cpp](leetcode/0010_regular_expression_matching.cpp) | Hard | leetcode | - |
+| [0044_wildcard_matching.cpp](leetcode/0044_wildcard_matching.cpp) | Hard | leetcode | - |
+| [0051_n_queens.cpp](leetcode/0051_n_queens.cpp) | Hard | leetcode | - |
+| [0239_sliding_window_maximum.cpp](leetcode/0239_sliding_window_maximum.cpp) | Hard | leetcode | - |
+| [0032_longest_valid_parentheses.cpp](leetcode/0032_longest_valid_parentheses.cpp) | Hard | leetcode | - |
+| [0084_largest_rectangle_in_histogram.cpp](leetcode/0084_largest_rectangle_in_histogram.cpp) | Hard | leetcode | - |
+| [1235_maximum_profit_in_job_scheduling.cpp](leetcode/1235_maximum_profit_in_job_scheduling.cpp) | Hard | leetcode | - |
+| [0068_text_justification.cpp](leetcode/0068_text_justification.cpp) | Hard | leetcode | - |
+| [4A_watermelon.cpp](codeforces/4A_watermelon.cpp) | 800-900 | codeforces | - |
+| [1A_theatre_square.cpp](codeforces/1A_theatre_square.cpp) | 800-900 | codeforces | - |
+| [71A_way_too_long_words.cpp](codeforces/71A_way_too_long_words.cpp) | 800-900 | codeforces | - |
+| [158A_next_round.cpp](codeforces/158A_next_round.cpp) | 800-900 | codeforces | - |
+| [231A_team.cpp](codeforces/231A_team.cpp) | 800-900 | codeforces | - |
+| [282A_bit++.cpp](codeforces/282A_bit++.cpp) | 800-900 | codeforces | - |
+| [50A_domino_piling.cpp](codeforces/50A_domino_piling.cpp) | 800-900 | codeforces | - |
+| [118A_string_task.cpp](codeforces/118A_string_task.cpp) | 800-900 | codeforces | - |
+| [379A_new_year_candles.cpp](codeforces/379A_new_year_candles.cpp) | 800-900 | codeforces | - |
+| [466A_cheap_travel.cpp](codeforces/466A_cheap_travel.cpp) | 800-900 | codeforces | - |
+| [4B_before_an_exam.cpp](codeforces/4B_before_an_exam.cpp) | 800-900 | codeforces | - |
+| [41A_translation.cpp](codeforces/41A_translation.cpp) | 800-900 | codeforces | - |
+| [208A_dubstep.cpp](codeforces/208A_dubstep.cpp) | 800-900 | codeforces | - |
+| [236A_boy_or_girl.cpp](codeforces/236A_boy_or_girl.cpp) | 800-900 | codeforces | - |
+| [112A_petya_and_strings.cpp](codeforces/112A_petya_and_strings.cpp) | 800-900 | codeforces | - |
+| [1000A_codehorses_t_shirts.cpp](codeforces/1000A_codehorses_t_shirts.cpp) | 1000-1100 | codeforces | - |
+| [977A_wrong_subtraction.cpp](codeforces/977A_wrong_subtraction.cpp) | 1000-1100 | codeforces | - |
+| [1096A_find_divisible.cpp](codeforces/1096A_find_divisible.cpp) | 1000-1100 | codeforces | - |
+| [469A_i_wanna_be_the_guy.cpp](codeforces/469A_i_wanna_be_the_guy.cpp) | 1000-1100 | codeforces | - |
+| [1005A_tanya_and_stairways.cpp](codeforces/1005A_tanya_and_stairways.cpp) | 1000-1100 | codeforces | - |
+| [490A_team_olympiad.cpp](codeforces/490A_team_olympiad.cpp) | 1000-1100 | codeforces | - |
+| [158B_taxi.cpp](codeforces/158B_taxi.cpp) | 1000-1100 | codeforces | - |
+| [96A_football.cpp](codeforces/96A_football.cpp) | 1000-1100 | codeforces | - |
+| [546A_soldier_and_bananas.cpp](codeforces/546A_soldier_and_bananas.cpp) | 1000-1100 | codeforces | - |
+| [133A_hq9+.cpp](codeforces/133A_hq9+.cpp) | 1000-1100 | codeforces | - |
+| [71A_way_too_long_words_revisit.cpp](codeforces/71A_way_too_long_words_revisit.cpp) | 1000-1100 | codeforces | - |
+| [148A_insomnia_cure.cpp](codeforces/148A_insomnia_cure.cpp) | 1000-1100 | codeforces | - |
+| [4C_registration_system.cpp](codeforces/4C_registration_system.cpp) | 1000-1100 | codeforces | - |
+| [337A_puzzles.cpp](codeforces/337A_puzzles.cpp) | 1000-1100 | codeforces | - |
+| [519A_a_and_b_and_chess.cpp](codeforces/519A_a_and_b_and_chess.cpp) | 1000-1100 | codeforces | - |
+| [1352A_sum_of_round_numbers.cpp](codeforces/1352A_sum_of_round_numbers.cpp) | 1200-1300 | codeforces | - |
+| [1409A_yet_another_two_array_problem.cpp](codeforces/1409A_yet_another_two_array_problem.cpp) | 1200-1300 | codeforces | - |
+| [977B_two_gram.cpp](codeforces/977B_two_gram.cpp) | 1200-1300 | codeforces | - |
+| [1520A_do_not_be_distracted.cpp](codeforces/1520A_do_not_be_distracted.cpp) | 1200-1300 | codeforces | - |
+| [1520B_ordinary_numbers.cpp](codeforces/1520B_ordinary_numbers.cpp) | 1200-1300 | codeforces | - |
+| [466B_wall.cpp](codeforces/466B_wall.cpp) | 1200-1300 | codeforces | - |
+| [489B_bersu_league.cpp](codeforces/489B_bersu_league.cpp) | 1200-1300 | codeforces | - |
+| [122A_lucky_division.cpp](codeforces/122A_lucky_division.cpp) | 1200-1300 | codeforces | - |
+| [271A_beautiful_year.cpp](codeforces/271A_beautiful_year.cpp) | 1200-1300 | codeforces | - |
+| [1015A_points_in_segments.cpp](codeforces/1015A_points_in_segments.cpp) | 1200-1300 | codeforces | - |
+| [1029A_many_equal_substrings.cpp](codeforces/1029A_many_equal_substrings.cpp) | 1200-1300 | codeforces | - |
+| [1005B_delete_two_elements.cpp](codeforces/1005B_delete_two_elements.cpp) | 1200-1300 | codeforces | - |
+| [519B_a_and_b_and_interesting_substrings.cpp](codeforces/519B_a_and_b_and_interesting_substrings.cpp) | 1200-1300 | codeforces | - |
+| [977C_less_or_equal.cpp](codeforces/977C_less_or_equal.cpp) | 1200-1300 | codeforces | - |
+| [1352B_same_parity_summands.cpp](codeforces/1352B_same_parity_summands.cpp) | 1200-1300 | codeforces | - |
+| [1352C_k_th_not_divisible_by_n.cpp](codeforces/1352C_k_th_not_divisible_by_n.cpp) | 1400-1500 | codeforces | - |
+| [1359B_new_theatre_square.cpp](codeforces/1359B_new_theatre_square.cpp) | 1400-1500 | codeforces | - |
+| [1360C_similar_pairs.cpp](codeforces/1360C_similar_pairs.cpp) | 1400-1500 | codeforces | - |
+| [1367B_even_array.cpp](codeforces/1367B_even_array.cpp) | 1400-1500 | codeforces | - |
+| [1370B_gcd_compression.cpp](codeforces/1370B_gcd_compression.cpp) | 1400-1500 | codeforces | - |
+| [1372A_omkar_and_bad_story.cpp](codeforces/1372A_omkar_and_bad_story.cpp) | 1400-1500 | codeforces | - |
+| [158B_taxi_greedy_variant.cpp](codeforces/158B_taxi_greedy_variant.cpp) | 1400-1500 | codeforces | - |
+| [1436A_reorder.cpp](codeforces/1436A_reorder.cpp) | 1400-1500 | codeforces | - |
+| [1367C_chess_rush.cpp](codeforces/1367C_chess_rush.cpp) | 1400-1500 | codeforces | - |
+| [1183A_nearest_interesting_number.cpp](codeforces/1183A_nearest_interesting_number.cpp) | 1400-1500 | codeforces | - |
+| [1176A_divide_it.cpp](codeforces/1176A_divide_it.cpp) | 1400-1500 | codeforces | - |
+| [1213A_chips_moving.cpp](codeforces/1213A_chips_moving.cpp) | 1400-1500 | codeforces | - |
+| [1225B_trip_for_meal.cpp](codeforces/1225B_trip_for_meal.cpp) | 1400-1500 | codeforces | - |
+| [1257A_two_rival_watch_collectors.cpp](codeforces/1257A_two_rival_watch_collectors.cpp) | 1400-1500 | codeforces | - |
+| [1257C_dominated_subarray.cpp](codeforces/1257C_dominated_subarray.cpp) | 1600-1700 | codeforces | - |
+| [1265B_beautiful_numbers.cpp](codeforces/1265B_beautiful_numbers.cpp) | 1600-1700 | codeforces | - |
+| [1352E_special_elements.cpp](codeforces/1352E_special_elements.cpp) | 1600-1700 | codeforces | - |
+| [1364A_xxxxx.cpp](codeforces/1364A_xxxxx.cpp) | 1600-1700 | codeforces | - |
+| [1370C_number_game.cpp](codeforces/1370C_number_game.cpp) | 1600-1700 | codeforces | - |
+| [1372B_omkar_and_last_class_of_math.cpp](codeforces/1372B_omkar_and_last_class_of_math.cpp) | 1600-1700 | codeforces | - |
+| [1373C_pluses_and_xors.cpp](codeforces/1373C_pluses_and_xors.cpp) | 1600-1700 | codeforces | - |
+| [1385E_directing_edges.cpp](codeforces/1385E_directing_edges.cpp) | 1600-1700 | codeforces | - |
+| [1418C_mortal_kombat_tower.cpp](codeforces/1418C_mortal_kombat_tower.cpp) | 1600-1700 | codeforces | - |
+| [1420C_not_adjacent_matrix.cpp](codeforces/1420C_not_adjacent_matrix.cpp) | 1600-1700 | codeforces | - |
+| [1436C_bogosort.cpp](codeforces/1436C_bogosort.cpp) | 1600-1700 | codeforces | - |
+| [1461B_levels.cpp](codeforces/1461B_levels.cpp) | 1600-1700 | codeforces | - |
+| [1466C_canine_poetry.cpp](codeforces/1466C_canine_poetry.cpp) | 1600-1700 | codeforces | - |
+| [1472C_long_jumps.cpp](codeforces/1472C_long_jumps.cpp) | 1600-1700 | codeforces | - |
+| [1478A_nezzar_and_colorful_balls.cpp](codeforces/1478A_nezzar_and_colorful_balls.cpp) | 1600-1700 | codeforces | - |
+| [1450C_errich_tac_toe.cpp](codeforces/1450C_errich_tac_toe.cpp) | 1800-1900 | codeforces | - |
+| [1461C_random_events.cpp](codeforces/1461C_random_events.cpp) | 1800-1900 | codeforces | - |
+| [1466D_chessboard_challenge.cpp](codeforces/1466D_chessboard_challenge.cpp) | 1800-1900 | codeforces | - |
+| [1493C_k_beautiful_strings.cpp](codeforces/1493C_k_beautiful_strings.cpp) | 1800-1900 | codeforces | - |
+| [1500B_two_hundred_twenty_one.cpp](codeforces/1500B_two_hundred_twenty_one.cpp) | 1800-1900 | codeforces | - |
+| [1526C1_potions_easy_version.cpp](codeforces/1526C1_potions_easy_version.cpp) | 1800-1900 | codeforces | - |
+| [1538C_number_of_pairs.cpp](codeforces/1538C_number_of_pairs.cpp) | 1800-1900 | codeforces | - |
+| [1547E_air_conditioners.cpp](codeforces/1547E_air_conditioners.cpp) | 1800-1900 | codeforces | - |
+| [1552E_colors_and_intervals.cpp](codeforces/1552E_colors_and_intervals.cpp) | 1800-1900 | codeforces | - |
+| [1567D_expression_evaluation_error.cpp](codeforces/1567D_expression_evaluation_error.cpp) | 1800-1900 | codeforces | - |
+| [1579D_diamond_miner.cpp](codeforces/1579D_diamond_miner.cpp) | 1800-1900 | codeforces | - |
+| [1582E_pekora_and_trampoline.cpp](codeforces/1582E_pekora_and_trampoline.cpp) | 1800-1900 | codeforces | - |
+| [1594B_special_numbers.cpp](codeforces/1594B_special_numbers.cpp) | 1800-1900 | codeforces | - |
+| [1290A_coffee_varieties_warm_up.cpp](codeforces/1290A_coffee_varieties_warm_up.cpp) | 2000-2400+ | codeforces | - |
+| [1327E_count_the_blocks.cpp](codeforces/1327E_count_the_blocks.cpp) | 2000-2400+ | codeforces | - |
+| [1358D_the_best_vacation.cpp](codeforces/1358D_the_best_vacation.cpp) | 2000-2400+ | codeforces | - |
+| [1391D_505.cpp](codeforces/1391D_505.cpp) | 2000-2400+ | codeforces | - |
+| [1420D_rescue_nibel.cpp](codeforces/1420D_rescue_nibel.cpp) | 2000-2400+ | codeforces | - |
+| [1444A_destroy_blocks.cpp](codeforces/1444A_destroy_blocks.cpp) | 2000-2400+ | codeforces | - |
+| [1470B_strange_definition.cpp](codeforces/1470B_strange_definition.cpp) | 2000-2400+ | codeforces | - |
+| [1481B_almost_rectangle.cpp](codeforces/1481B_almost_rectangle.cpp) | 2000-2400+ | codeforces | - |
+| [1500D_serval_and_rooted_tree.cpp](codeforces/1500D_serval_and_rooted_tree.cpp) | 2000-2400+ | codeforces | - |
+| [1553F_pairs_of_segments.cpp](codeforces/1553F_pairs_of_segments.cpp) | 2000-2400+ | codeforces | - |
+| [1601C_optimal_insertion.cpp](codeforces/1601C_optimal_insertion.cpp) | 2000-2400+ | codeforces | - |
+| [1620E_replace_the_numbers.cpp](codeforces/1620E_replace_the_numbers.cpp) | 2000-2400+ | codeforces | - |
+| [1637D_yet_another_sorting_problem.cpp](codeforces/1637D_yet_another_sorting_problem.cpp) | 2000-2400+ | codeforces | - |
