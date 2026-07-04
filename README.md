@@ -34,7 +34,7 @@ Repository containing my C++ solutions to LeetCode and Codeforces problems.
 | [0002_add_two_numbers.cpp](leetcode/0002_add_two_numbers.cpp) | Medium | leetcode | - |
 | [0230_kth_smallest_element_in_a_bst.cpp](leetcode/0230_kth_smallest_element_in_a_bst.cpp) | Medium | leetcode | - |
 | [0235_lowest_common_ancestor_of_a_bst.cpp](leetcode/0235_lowest_common_ancestor_of_a_bst.cpp) | Medium | leetcode | - |
-| [0110_balanced_binary_tree.cpp](leetcode/0110_balanced_binary_tree.cpp) | Easy | leetcode | - |
+| [0110_balanced_binary_tree.cpp](leetcode/0110_balanced_binary_tree.cpp) | Easy | leetcode | 4th July 2026 |
 | [0543_diameter_of_binary_tree.cpp](leetcode/0543_diameter_of_binary_tree.cpp) | Easy | leetcode | - |
 | [0003_longest_substring_without_repeating_characters.cpp](leetcode/0003_longest_substring_without_repeating_characters.cpp) | Medium | leetcode | - |
 | [0015_3sum.cpp](leetcode/0015_3sum.cpp) | Medium | leetcode | - |
