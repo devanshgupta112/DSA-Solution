@@ -13,7 +13,7 @@ Repository containing my C++ solutions to LeetCode and Codeforces problems.
 | [0020_valid_parentheses.cpp](leetcode/0020_valid_parentheses.cpp) | Easy | leetcode | 4th July 2026 |
 | [0206_reverse_linked_list.cpp](leetcode/0206_reverse_linked_list.cpp) | Easy | leetcode | - |
 | [0021_merge_two_sorted_lists.cpp](leetcode/0021_merge_two_sorted_lists.cpp) | Easy | leetcode | - |
-| [0053_maximum_subarray.cpp](leetcode/0053_maximum_subarray.cpp) | Medium | leetcode | - |
+| [0053_maximum_subarray.cpp](leetcode/0053_maximum_subarray.cpp) | Medium | leetcode | 4th July 2026 |
 | [0070_climbing_stairs.cpp](leetcode/0070_climbing_stairs.cpp) | Easy | leetcode | - |
 | [0704_binary_search.cpp](leetcode/0704_binary_search.cpp) | Easy | leetcode | - |
 | [0226_invert_binary_tree.cpp](leetcode/0226_invert_binary_tree.cpp) | Easy | leetcode | - |
