@@ -9,7 +9,7 @@ Repository containing my C++ solutions to LeetCode and Codeforces problems.
 | [0001_two_sum.cpp](leetcode/0001_two_sum.cpp) | Easy | leetcode | - |
 | [0242_valid_anagram.cpp](leetcode/0242_valid_anagram.cpp) | Easy | leetcode | - |
 | [0217_contains_duplicate.cpp](leetcode/0217_contains_duplicate.cpp) | Easy | leetcode | - |
-| [0121_best_time_to_buy_and_sell_stock.cpp](leetcode/0121_best_time_to_buy_and_sell_stock.cpp) | Easy | leetcode | - |
+| [0121_best_time_to_buy_and_sell_stock.cpp](leetcode/0121_best_time_to_buy_and_sell_stock.cpp) | Easy | leetcode | 4th July 2026 |
 | [0020_valid_parentheses.cpp](leetcode/0020_valid_parentheses.cpp) | Easy | leetcode | 4th July 2026 |
 | [0206_reverse_linked_list.cpp](leetcode/0206_reverse_linked_list.cpp) | Easy | leetcode | - |
 | [0021_merge_two_sorted_lists.cpp](leetcode/0021_merge_two_sorted_lists.cpp) | Easy | leetcode | - |
