@@ -18,7 +18,7 @@ Repository containing my C++ solutions to LeetCode and Codeforces problems.
 | [0704_binary_search.cpp](leetcode/0704_binary_search.cpp) | Easy | leetcode | - |
 | [0226_invert_binary_tree.cpp](leetcode/0226_invert_binary_tree.cpp) | Easy | leetcode | - |
 | [0101_symmetric_tree.cpp](leetcode/0101_symmetric_tree.cpp) | Easy | leetcode | - |
-| [0104_maximum_depth_of_binary_tree.cpp](leetcode/0104_maximum_depth_of_binary_tree.cpp) | Easy | leetcode | - |
+| [0104_maximum_depth_of_binary_tree.cpp](leetcode/0104_maximum_depth_of_binary_tree.cpp) | Easy | leetcode | 4th July 2026 |
 | [0100_same_tree.cpp](leetcode/0100_same_tree.cpp) | Easy | leetcode | - |
 | [0112_path_sum.cpp](leetcode/0112_path_sum.cpp) | Easy | leetcode | - |
 | [0049_group_anagrams.cpp](leetcode/0049_group_anagrams.cpp) | Medium | leetcode | - |
